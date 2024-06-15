@@ -1,0 +1,84 @@
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url(./imagenes/moto1.jpeg);
+    background-repeat: no-repeat;
+  
+    background-size: cover;
+     }
+
+.h1 {
+  color: orange;
+  
+  
+ }
+
+nav {
+    font-family: sans-serif;
+    background-image: url(./imagenes/foto4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font color: #0;
+    border 
+   }
+.texto {
+  
+  color: orange;
+  
+}
+ul {
+     font-size: xx-large;
+     color: rgb(125, 126, 53);
+    }
+
+img {
+
+  padding: 50px;    
+}
+
+.offcanvas-body{
+  background-image: url(./imagenes/tierra.avif)
+
+}
+
+.offcanvas-header{
+  background-color : rgb(122, 74, 10)
+ 
+}
+
+.dropdown-item{
+  background-color : rgb(71, 165, 86)
+}
+
+.nav-link{
+  background-color: brown;
+
+}
+.dropdown-menu{
+  color: olive;
+}
+
+.icons{
+
+  margin-left: 500px;
+  margin-right: 40px;
+}
+
+.card-group {
+  
+  display: flex;
+
+}
+
+.icons{
+
+  justify-content: center;
+  align-items: center;
+  
+ 
+}
+
+.texto {
+
+  color: rgb(240, 99, 17);
+}
